@@ -9,18 +9,16 @@
 }
 
 /*---------- Colours & aesthetics---*/
-header {
-	text-align: centre;
-	font-size: 175%;
-
-}
-
-
 body {
 	background: #DEEDF7;
 }
 
 h1 {
+	text-align: centre;
+	font-size: 175%;
+}
+
+h2 {
 	background-color: #CEB0FF;
 }
 
