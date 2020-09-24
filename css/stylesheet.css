@@ -1,7 +1,10 @@
 
-body {background-color: #CEB0FF}
+body {background-color: #DEEDF7;}
 
-h1 {background-color: #DEEDF7}
+h1 {background-color: #CEB0FF;}
+
+section {border: 1px;
+		border-color: black;}
 
 
 
