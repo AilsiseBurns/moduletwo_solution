@@ -9,6 +9,13 @@
 }
 
 /*---------- Colours & aesthetics---*/
+header {
+	text-align: centre;
+	font-size: 75%;
+
+}
+
+
 body {
 	background: #DEEDF7;
 }
