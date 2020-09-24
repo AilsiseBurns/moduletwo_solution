@@ -1,10 +1,26 @@
 
-body {background-color: #DEEDF7;}
+/*------css reset------*/
 
-h1 {background-color: #CEB0FF;}
+*{
+    padding: 0;
+    margin: 0;
+    font size:100%;
+    line-height: 1em;
+}
 
-section {border: 1px;
-		border-color: black;}
+/*---------- Colours & aesthetics---*/
+body {
+	background: #DEEDF7;
+}
+
+h1 {
+	background-color: #CEB0FF;
+}
+
+p {
+	border: 1px;
+	border-color: black;
+}
 
 
 
