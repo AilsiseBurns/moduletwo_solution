@@ -11,11 +11,12 @@
 /*---------- Colours & aesthetics---*/
 body {
 	background: #DEEDF7;
+	margin: 10px;
 }
 
 h1 {
-	text-align: centre;
 	font-size: 175%;
+	text-align: center;
 }
 
 h2 {
