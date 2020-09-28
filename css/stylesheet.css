@@ -24,13 +24,20 @@ h2 {
 }
 
 section{
-	border-width: 1px;
-	border-color: 1px;
+	border: 1px solid black;
 }
 
+#chicken{
+	float: left;
+}
 
+#beef{
+	float:right;
+}
 
-
+#sushi{
+	clear: both;
+}
 
 
 
